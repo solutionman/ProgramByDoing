@@ -2,47 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9829af68-fcbb-4c46-9f31-046f7d587a79" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/30_BoringWindow/30_BoringWindow.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/30_BoringWindow/src/BoringWindow.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/31-AFrameWithAPanelWithWritingOnIt/31-AFrameWithAPanelWithWritingOnIt.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/31-AFrameWithAPanelWithWritingOnIt/src/Prog613.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/32-TwoQuestions/32-TwoQuestions.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/32-TwoQuestions/src/TwentyQuestions.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/34-AgeMessages3/34-AgeMessages3.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/34-AgeMessages3/src/AgeMessages.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/35-TwoMoreQuestions/35-TwoMoreQuestions.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/35-TwoMoreQuestions/src/TwoMoreQuestions.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/36-BMI_Categories/36-BMI_Categories.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/36-BMI_Categories/src/BMICategories.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/37-GenderGame/37-GenderGame.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/37-GenderGame/src/GenderGame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/38-compareToChallenge/38-compareToChallenge.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/38-compareToChallenge/src/CompareToChallenge.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/39-AlphabeticalOrder/39-AlphabeticalOrder.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/39-AlphabeticalOrder/src/AlphabeticalOrder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/40-TheWorstNumberGuessingGameEver/40-TheWorstNumberGuessingGameEver.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/40-TheWorstNumberGuessingGameEver/src/NumberGuessingGame.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/41-Randomness/41-Randomness.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/41-Randomness/src/Randomness.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgramByDoing.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/UsingSwingForInput/ABoringWindow.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/UsingSwingForInput/UsingSwingForInput.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/UsingSwingForInput/src/Prog611.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/30_BoringWindow/BoringWindow.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/31-AFrameWithAPanelWithWritingOnIt/Frame613.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/31-AFrameWithAPanelWithWritingOnIt/Panel613.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/31-AFrameWithAPanelWithWritingOnIt/Prog613.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/32-TwoQuestions/TwentyQuestions.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/34-AgeMessages3/AgeMessages.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/35-TwoMoreQuestions/TwoMoreQuestions.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/36-BMI_Categories/BMICategories.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/37-GenderGame/GenderGame.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/38-compareToChallenge/CompareToChallenge.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/UsingSwingForInput/Prog611.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/42-Magic_8-Ball/42-Magic_8-Ball.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/42-Magic_8-Ball/src/Magic8Ball.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Randomness.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Magic8Ball.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/42-Magic_8-Ball/src/Magic8Ball.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Randomness.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/41-Randomness/src/Randomness.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="325">
+              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -97,6 +70,7 @@
         <option value="$PROJECT_DIR$/39-AlphabeticalOrder/src/AlphabeticalOrder.java" />
         <option value="$PROJECT_DIR$/40-TheWorstNumberGuessingGameEver/src/NumberGuessingGame.java" />
         <option value="$PROJECT_DIR$/41-Randomness/src/Randomness.java" />
+        <option value="$PROJECT_DIR$/42-Magic_8-Ball/src/Magic8Ball.java" />
       </list>
     </option>
   </component>
@@ -107,10 +81,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="996" />
-    <option name="y" value="13" />
-    <option name="width" value="1518" />
-    <option name="height" value="1023" />
+    <option name="x" value="1076" />
+    <option name="y" value="9" />
+    <option name="width" value="1438" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,7 +113,7 @@
             <path>
               <item name="ProgramByDoing" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramByDoing" type="462c0819:PsiDirectoryNode" />
-              <item name="41-Randomness" type="462c0819:PsiDirectoryNode" />
+              <item name="42-Magic_8-Ball" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Randomness">
+  <component name="RunManager" selected="Application.Magic8Ball">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -207,9 +181,9 @@
       <module name="38-compareToChallenge" />
       <envs />
     </configuration>
-    <configuration name="GenderGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Magic8Ball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="GenderGame" />
+      <option name="MAIN_CLASS_NAME" value="Magic8Ball" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -218,7 +192,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="37-GenderGame" />
+      <module name="42-Magic_8-Ball" />
       <envs />
     </configuration>
     <configuration name="NumberGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -324,19 +298,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GenderGame" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CompareToChallenge" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AlphabeticalOrder" />
-      <item index="3" class="java.lang.String" itemvalue="Application.NumberGuessingGame" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Randomness" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CompareToChallenge" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AlphabeticalOrder" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NumberGuessingGame" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Randomness" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Magic8Ball" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Randomness" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NumberGuessingGame" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AlphabeticalOrder" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CompareToChallenge" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GenderGame" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Magic8Ball" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Randomness" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NumberGuessingGame" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AlphabeticalOrder" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CompareToChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -360,15 +334,15 @@
       <updated>1514645500227</updated>
       <workItem from="1514645505590" duration="7894000" />
       <workItem from="1514689277938" duration="11306000" />
-      <workItem from="1514773354892" duration="7743000" />
+      <workItem from="1514773354892" duration="10448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26943000" />
+    <option name="totallyTimeSpent" value="29648000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="996" y="13" width="1518" height="1023" extended-state="0" />
+    <frame x="1076" y="9" width="1438" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -380,11 +354,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32796317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32646048" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21262003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2119013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -534,8 +508,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/41-Randomness/src/Randomness.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="325">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42-Magic_8-Ball/src/Magic8Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>
