@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/30_BoringWindow/30_BoringWindow.iml" filepath="$PROJECT_DIR$/30_BoringWindow/30_BoringWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-AFrameWithAPanelWithWritingOnIt/31-AFrameWithAPanelWithWritingOnIt.iml" filepath="$PROJECT_DIR$/31-AFrameWithAPanelWithWritingOnIt/31-AFrameWithAPanelWithWritingOnIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-TwoQuestions/32-TwoQuestions.iml" filepath="$PROJECT_DIR$/32-TwoQuestions/32-TwoQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-AgeMessages3/34-AgeMessages3.iml" filepath="$PROJECT_DIR$/34-AgeMessages3/34-AgeMessages3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35-TwoMoreQuestions/35-TwoMoreQuestions.iml" filepath="$PROJECT_DIR$/35-TwoMoreQuestions/35-TwoMoreQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36-BMI_Categories/36-BMI_Categories.iml" filepath="$PROJECT_DIR$/36-BMI_Categories/36-BMI_Categories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37-GenderGame/37-GenderGame.iml" filepath="$PROJECT_DIR$/37-GenderGame/37-GenderGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38-compareToChallenge/38-compareToChallenge.iml" filepath="$PROJECT_DIR$/38-compareToChallenge/38-compareToChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39-AlphabeticalOrder/39-AlphabeticalOrder.iml" filepath="$PROJECT_DIR$/39-AlphabeticalOrder/39-AlphabeticalOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40-TheWorstNumberGuessingGameEver/40-TheWorstNumberGuessingGameEver.iml" filepath="$PROJECT_DIR$/40-TheWorstNumberGuessingGameEver/40-TheWorstNumberGuessingGameEver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41-Randomness/41-Randomness.iml" filepath="$PROJECT_DIR$/41-Randomness/41-Randomness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsingSwingForInput/ABoringWindow.iml" filepath="$PROJECT_DIR$/UsingSwingForInput/ABoringWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramByDoing.iml" filepath="$PROJECT_DIR$/ProgramByDoing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsingSwingForInput/UsingSwingForInput.iml" filepath="$PROJECT_DIR$/UsingSwingForInput/UsingSwingForInput.iml" />
+    </modules>
+  </component>
+</project>
