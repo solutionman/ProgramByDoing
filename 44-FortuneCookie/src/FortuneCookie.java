@@ -4,6 +4,12 @@ public class FortuneCookie {
     public static void main(String[] args){
         Random random = new Random();
         int number = 1 + random.nextInt(6);
+        int x1 = 1 + random.nextInt(54);
+        int x2 = 1 + random.nextInt(54);
+        int x3 = 1 + random.nextInt(54);
+        int x4 = 1 + random.nextInt(54);
+        int x5 = 1 + random.nextInt(54);
+        int x6 = 1 + random.nextInt(54);
         String answer = "";
         if(number == 1){
             answer = "You can do the most remarkable things, no matter what happens.";
@@ -20,5 +26,7 @@ public class FortuneCookie {
         }
 
         System.out.printf("Fortune cookie says: \"%s\"", answer);
+        System.out.println();
+        System.out.printf("    %d-%d-%d-%d-%d-%d ", x1, x2, x3, x4, x5, x6);
     }
 }
