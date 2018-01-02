@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9829af68-fcbb-4c46-9f31-046f7d587a79" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/47-Three-CardMonte/47-Three-CardMonte.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/47-Three-CardMonte/src/ThreeCardMonte.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/48-EnterYourPIN/48-EnterYourPIN.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/48-EnterYourPIN/src/EnterYourPIN.java" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -17,35 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OneShotHiLo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/46-OneShotHi-Lo/src/OneShotHiLo.java">
+      <file leaf-file-name="EnterYourPIN.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/48-EnterYourPIN/src/EnterYourPIN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreeCardMonte.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/47-Three-CardMonte/src/ThreeCardMonte.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/45-Dice/src/Dice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="500">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,6 +66,7 @@
         <option value="$PROJECT_DIR$/45-Dice/src/Dice.java" />
         <option value="$PROJECT_DIR$/46-OneShotHi-Lo/src/OneShotHiLo.java" />
         <option value="$PROJECT_DIR$/47-Three-CardMonte/src/ThreeCardMonte.java" />
+        <option value="$PROJECT_DIR$/48-EnterYourPIN/src/EnterYourPIN.java" />
       </list>
     </option>
   </component>
@@ -132,7 +109,7 @@
             <path>
               <item name="ProgramByDoing" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramByDoing" type="462c0819:PsiDirectoryNode" />
-              <item name="47-Three-CardMonte" type="462c0819:PsiDirectoryNode" />
+              <item name="48-EnterYourPIN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeCardMonte">
+  <component name="RunManager" selected="Application.EnterYourPIN">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -186,6 +163,20 @@
       <module name="45-Dice" />
       <envs />
     </configuration>
+    <configuration name="EnterYourPIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="EnterYourPIN" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="48-EnterYourPIN" />
+      <envs />
+    </configuration>
     <configuration name="FortuneCookie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="FortuneCookie" />
@@ -198,20 +189,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="44-FortuneCookie" />
-      <envs />
-    </configuration>
-    <configuration name="NumberGuessingGame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="NumberGuessingGame" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="43-Number-GuessingGame" />
       <envs />
     </configuration>
     <configuration name="OneShotHiLo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -317,19 +294,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NumberGuessingGame (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FortuneCookie" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Dice" />
-      <item index="3" class="java.lang.String" itemvalue="Application.OneShotHiLo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ThreeCardMonte" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FortuneCookie" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Dice" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OneShotHiLo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ThreeCardMonte" />
+      <item index="4" class="java.lang.String" itemvalue="Application.EnterYourPIN" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreeCardMonte" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OneShotHiLo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Dice" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FortuneCookie" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NumberGuessingGame (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.EnterYourPIN" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ThreeCardMonte" />
+        <item index="2" class="java.lang.String" itemvalue="Application.OneShotHiLo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Dice" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FortuneCookie" />
       </list>
     </recent_temporary>
   </component>
@@ -357,12 +334,12 @@
       <workItem from="1514821397690" duration="3047000" />
       <workItem from="1514867529010" duration="2124000" />
       <workItem from="1514889443245" duration="2048000" />
-      <workItem from="1514895478642" duration="3634000" />
+      <workItem from="1514895478642" duration="4907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43426000" />
+    <option name="totallyTimeSpent" value="44699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1081" y="9" width="1438" height="1027" extended-state="0" />
@@ -423,7 +400,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -635,14 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/45-Dice/src/Dice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/44-FortuneCookie/src/FortuneCookie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -650,13 +619,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/46-OneShotHi-Lo/src/OneShotHiLo.java">
+    <entry file="file://$PROJECT_DIR$/45-Dice/src/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="350">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -665,8 +632,26 @@
         <state relative-caret-position="672">
           <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46-OneShotHi-Lo/src/OneShotHiLo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48-EnterYourPIN/src/EnterYourPIN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
