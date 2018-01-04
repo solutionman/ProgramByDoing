@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9829af68-fcbb-4c46-9f31-046f7d587a79" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/52-PIN_Lockout/52-PIN_Lockout.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/52-PIN_Lockout/src/PinLockout.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/53-Number-GuessingWithCounter/53-Number-GuessingWithCounter.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/53-Number-GuessingWithCounter/src/NumberGuessingWithCounter.java" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -17,12 +17,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PinLockout.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PinLockout.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/52-PIN_Lockout/src/PinLockout.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberGuessingWithCounter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/53-Number-GuessingWithCounter/src/NumberGuessingWithCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,6 +83,7 @@
         <option value="$PROJECT_DIR$/50-DiceDoubles/src/DiceDoubles.java" />
         <option value="$PROJECT_DIR$/51-CountingWithAWhileLoop/src/CountingWithAWhileLoop.java" />
         <option value="$PROJECT_DIR$/52-PIN_Lockout/src/PinLockout.java" />
+        <option value="$PROJECT_DIR$/53-Number-GuessingWithCounter/src/NumberGuessingWithCounter.java" />
       </list>
     </option>
   </component>
@@ -81,8 +94,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1061" />
-    <option name="y" value="6" />
+    <option name="x" value="1077" />
+    <option name="y" value="5" />
     <option name="width" value="1438" />
     <option name="height" value="1027" />
   </component>
@@ -116,7 +129,7 @@
             <path>
               <item name="ProgramByDoing" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramByDoing" type="462c0819:PsiDirectoryNode" />
-              <item name="52-PIN_Lockout" type="462c0819:PsiDirectoryNode" />
+              <item name="53-Number-GuessingWithCounter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PinLockout">
+  <component name="RunManager" selected="Application.NumberGuessingWithCounter">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -181,20 +194,6 @@
       <module name="50-DiceDoubles" />
       <envs />
     </configuration>
-    <configuration name="EnterYourPIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="EnterYourPIN" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="48-EnterYourPIN" />
-      <envs />
-    </configuration>
     <configuration name="KeepGuessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="KeepGuessing" />
@@ -207,6 +206,20 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="49-KeepGuessing" />
+      <envs />
+    </configuration>
+    <configuration name="NumberGuessingWithCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="NumberGuessingWithCounter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="53-Number-GuessingWithCounter" />
       <envs />
     </configuration>
     <configuration name="PinLockout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -298,19 +311,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.EnterYourPIN" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KeepGuessing" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DiceDoubles" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CountingWithAWhileLoop" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PinLockout" />
+      <item index="0" class="java.lang.String" itemvalue="Application.KeepGuessing" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DiceDoubles" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CountingWithAWhileLoop" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PinLockout" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NumberGuessingWithCounter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PinLockout" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CountingWithAWhileLoop" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DiceDoubles" />
-        <item index="3" class="java.lang.String" itemvalue="Application.KeepGuessing" />
-        <item index="4" class="java.lang.String" itemvalue="Application.EnterYourPIN" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NumberGuessingWithCounter" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PinLockout" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CountingWithAWhileLoop" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DiceDoubles" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KeepGuessing" />
       </list>
     </recent_temporary>
   </component>
@@ -340,15 +353,15 @@
       <workItem from="1514889443245" duration="2048000" />
       <workItem from="1514895478642" duration="8468000" />
       <workItem from="1514950770531" duration="5514000" />
-      <workItem from="1515041045083" duration="1809000" />
+      <workItem from="1515041045083" duration="3718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55583000" />
+    <option name="totallyTimeSpent" value="57492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1061" y="6" width="1438" height="1027" extended-state="0" />
+    <frame x="1077" y="5" width="1438" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -360,7 +373,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44673538" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59450173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -689,6 +702,16 @@
         <state relative-caret-position="357">
           <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/53-Number-GuessingWithCounter/src/NumberGuessingWithCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
