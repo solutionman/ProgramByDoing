@@ -22,7 +22,5 @@ public class SafeSquareRoot {
             System.out.println("Can't read this as a number");
         }
 
-
-
     }
 }
